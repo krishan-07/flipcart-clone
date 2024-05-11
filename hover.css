@@ -1,0 +1,32 @@
+.login-wrap:hover {
+    background-color: rgb(12, 115, 235);
+
+    .t-1 {
+        color: white;
+    }
+
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1
+}
+
+.card-img:hover,
+.card-img-2:hover {
+    scale: 104%;
+
+}
+
+#toggle:checked+.button+.xrta-content {
+    display: block;
+}
+
+li:hover {
+    text-decoration: underline;
+    scale: 102%;
+}
