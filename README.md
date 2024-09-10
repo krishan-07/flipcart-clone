@@ -1,3 +1,3 @@
-This flipkart clone is mode only with HTML and CSS <br>
-check the page by clicking this link 
-https://krishan-07.github.io/flipcart-clone
+### This project is a Flipkart clone made only with HTML and CSS.
+
+#### Preview: 
